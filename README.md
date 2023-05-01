@@ -14,10 +14,10 @@ Travel Journey is a responsive React application designed for novice to intermed
  
 
 ## Views of React App
-- Desktop View Of React App
+ <h5>Desktop View Of React App</h5>
 <img width="30%" src="https://github.com/huseyinkaplan00/travelJourney/blob/main/travelJourney/src/images/ssOfApp.png" />
 
-- Mobile View Of React App
+<h5> Mobile View Of React App</h5>
 <img width="30%" src="https://github.com/huseyinkaplan00/travelJourney/blob/main/travelJourney/src/images/mobileSS.png" />
 
 
