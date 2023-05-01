@@ -1,6 +1,6 @@
 ## Contents
 - [Description](#description)
-- [Views of React App](#views-of-react-app)
+- [Views of React Page](#views-of-react-page)
 - [Features](#features)
 - [Getting Started](#getting-started)
 
@@ -12,6 +12,8 @@ Travel Journey is a responsive React application designed for novice to intermed
 
 - Check out the project live at <a href="https://huseyinkaplan-travel-journey.netlify.app/"> Here 👈 </a>
  
+
+## Views of React Page
 
  <h5>Desktop View Of React Page</h5>
 <img width="30%" src="https://github.com/huseyinkaplan00/travelJourney/blob/main/travelJourney/src/images/ssOfApp.png" />
