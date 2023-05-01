@@ -13,11 +13,10 @@ Travel Journey is a responsive React application designed for novice to intermed
 - Check out the project live at <a href="https://huseyinkaplan-travel-journey.netlify.app/"> Here 👈 </a>
  
 
-## Views of React App
- <h5>Desktop View Of React App</h5>
+ <h5>Desktop View Of React Page</h5>
 <img width="30%" src="https://github.com/huseyinkaplan00/travelJourney/blob/main/travelJourney/src/images/ssOfApp.png" />
 
-<h5> Mobile View Of React App</h5>
+<h5> Mobile View Of React Page</h5>
 <img width="30%" src="https://github.com/huseyinkaplan00/travelJourney/blob/main/travelJourney/src/images/mobileSS.png" />
 
 
@@ -32,7 +31,7 @@ Travel Journey is a responsive React application designed for novice to intermed
 
 ## Getting Started
 
-To get started with the Travel Journey app, follow these steps:
+To get started with the Travel Journey react page, follow these steps:
 
 1. Clone the repository:
 
@@ -50,9 +49,9 @@ npm install
 npm run dev
 
 
-The app should now be running on `http://localhost:8000/`.
+The react page should now be running on `http://localhost:8000/`.
 
 
 
 
-Thank you for your interest in the Travel Journey app!
+Thank you for your interest in the Travel Journey react page!
