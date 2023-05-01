@@ -8,8 +8,7 @@
 
 ## Description
 
-Travel Journey is a responsive React application designed for novice to intermediate React developers. This project showcases the use of prompts and the .map method to efficiently render data from a "data.jsx" file, providing a seamless and interactive user experience.
-
+Travel Journey is a responsive React application built with React. I used prompts and the .map method in this project to efficiently render data from a "data.jsx" file, providing a seamless user experience.
 - Check out the project live at <a href="https://huseyinkaplan-travel-journey.netlify.app/"> Here 👈 </a>
  
 
